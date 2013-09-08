@@ -13,5 +13,8 @@
 @property (retain,nonatomic) NSDate *lastThursday;
 
 -(void) print;
+-(void) earlierDate;
+-(void) lastThursday;
+-(void) tenthDay;
 
 @end
